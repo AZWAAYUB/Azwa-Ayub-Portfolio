@@ -606,18 +606,18 @@ section {
     margin: auto;
   }
   
-  .content {
+  .content-01 {
     flex: 1 1 40%;
     padding: 20px;
   }
   
-  .content h1 {
+  .content-01 h1 {
     font-size: 2rem;
     color: #333;
     margin-bottom: 20px;
   }
   
-  .content p {
+  .content-01 p {
     font-size: 1rem;
     color: #666;
     line-height: 1.6;
